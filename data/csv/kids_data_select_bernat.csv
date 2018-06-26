@@ -1,0 +1,46 @@
+"Instructor_Name__c","Workshop_Date_Start__c","Workshop_Date_End__c","Venue_Name__c","City","Province_Territory__c","Postal_Code__c","Workshop_Name__c","Subjects_Taught__c","Age_Range__c","Workshop_Language__c","Number_of_kids__c"
+"Bernat Ferragut",2018-05-01,2018-05-14,"Ecole Notre-Dame-de-Lourdes, 495 Rue Principale, Saint-Donat-de-Montcalm, QC J0T 2C0, Canada","Saint-Donat-de-Montcalm, QC","Québec","J0T2C0","Scratch","Introduction to Scratch","8-10","French",22
+"Bernat Ferragut",2018-05-01,2018-05-14,"510 Rue Groulx, Sainte-Agathe-des-Monts, QC J8C 1N6, Canada","Sainte-Agathe-des-Monts, QC","Québec","J8C1N6","Scratch","Introduction to Scratch","5-7;8-10","French",15
+"Bernat Ferragut",2018-04-13,2018-05-09,"École Sainte-Thérèse, 562, 1ère Rue Est, Amos, J9T 2H4","Amos, Qc","Québec","J9T2H4","Scratch","Introduction to Scratch","10-12","French",24
+"Bernat Ferragut",2018-04-13,2018-05-10,"École Sainte-Gertrude, 6, rue de l'École, Sainte-Gertrude, J0Y 2L0","Sainte-Gertrude, Qc","Québec","J0Y2L0","Scratch","Introduction to Scratch","8-10","French",26
+"Bernat Ferragut",2018-04-12,2018-05-09,"École St-Viateur, 662, 1ère Rue Est, Amos, J9T 2H6","Amos, Qc","Québec","J9T2H6","Scratch","Introduction to Scratch","10-12","French",25
+"Bernat Ferragut",2018-04-12,2018-05-10,"École St-Viateur, 662, 1ère Rue Est, Amos, J9T 2H6","","Québec","J9T2H6","Scratch","Introduction to Scratch","10-12","French",24
+"Bernat Ferragut",2018-04-11,2018-05-09,"École Saint-Viateur, 662, 1ère rue Est, Amos J9T 2H6","Amos, Qc","Québec","J9T2H6","Scratch","Introduction to Scratch","10-12","French",25
+"Bernat Ferragut",2018-04-10,2018-05-08,"École Ste-Bernadette ,1298 chemin de l'Église, Rémigny, J0Z 3H0","Rémigny, Qc","Québec","J0Z3H","Scratch","Introduction to Scratch","8-10","French",18
+"Bernat Ferragut",2018-04-10,2018-05-08,"68 Rue Principale, Nédélec, QC J0Z 2Z0, Canada","Nédélec","Québec","J0Z2Z0","Scratch","Introduction to Scratch","10-12","French",22
+"Bernat Ferragut",2018-04-09,2018-05-07,"Ecole St-Joseph","Notre-Dame-du-Nord, QC","Québec","J0Z3B0","Scratch","Introduction to Scratch","8-10","French",18
+"Bernat Ferragut",2018-04-09,2018-05-07,"Ecole St-Joseph, 12 Rue Beauséjour, Notre-Dame-du-Nord,","Notre-Dame-du-Nord,","Québec","J0Z3B0","Scratch","Introduction to Scratch","10-12","French",20
+"Bernat Ferragut",2018-03-27,2018-04-30,"Pavillon Trois-Saisons, 509, rue Labelle, Mont-Tremblant, J8E 3H2","Mont-Tremblant, Qc","Québec","J8E3H2","Scratch","Introduction to Scratch","10-12","French",23
+"Bernat Ferragut",2018-03-27,2018-04-30,"École L'Arc-En-Ciel, 200 Rue Principale, Huberdeau, Boileau, QC J0T 1G0, Canada","Boileau, QC","Québec","J0T1G0","Scratch","Introduction to Scratch","8-10","French",25
+"Bernat Ferragut",2018-03-26,2018-04-24,"École Monseigneur-Ovide-Charlebois, 20, rue du Collège, Sainte-Marguerite-du-Lac-Masson","Sainte-Marguerite-du-Lac-Masson","Québec","J0T1L0","Scratch","Introduction to Scratch","8-10","French",24
+"Bernat Ferragut",2018-03-26,2018-04-17,"1350 Rue de l'Académie, Val-David, QC J0T 2N0, Canada","Val-David, Qc","Québec","J0T2N0","Scratch","Introduction to Scratch","5-7","French",18
+"Bernat Ferragut",2017-11-30,2018-01-24,"École Les-Enfants-Du-Monde","Montréal","Québec","H4V2H9","Code MTL","Scratch","10-12","French",20
+"Bernat Ferragut",2017-11-30,2018-01-24,"École Les-Enfants-Du-Monde","Montréal","Québec","H4V2H9","Code MTL","Scratch","10-12","French",23
+"Bernat Ferragut",2017-11-30,2018-01-25,"Etoile Filante School","Montréal","Québec","H4A1R5","Code MTL","Scratch","8-10","French",24
+"Bernat Ferragut",2017-11-30,2018-01-31,"École Notre-Dame-De-Grâce","Montréal","Québec","H4A1L2","Code MTL","Scratch","8-10","French",22
+"Bernat Ferragut",2017-11-30,2018-01-30,"Saint-Léon-De-Westmount School","Montréal","Québec","H3Z2E6","Code MTL","Scratch","10-12","French",24
+"Bernat Ferragut",2017-11-29,2018-02-12,"École Judith-Jasmin","Montréal","Québec","H4B2G3","Code MTL","Scratch","8-10","French",22
+"Bernat Ferragut",2017-11-28,2018-01-23,"École Barthélemy-Vimont","Montréal","Québec","H3N1K2","Code MTL","Scratch","8-10","French",20
+"Bernat Ferragut",2017-11-28,2018-01-22,"École Sainte-Cécile","Montréal","Québec","H2R1Z6","Code MTL","Scratch","8-10","French",22
+"Bernat Ferragut",2017-11-28,2018-01-22,"École Hélène-Boullé","Montréal","Québec","H2R2A7","Code MTL","Scratch","8-10","French",20
+"Bernat Ferragut",2017-10-15,2017-10-15,,"Montréal","Québec","H4L2H2","Bibliotheque Ville Saint-Laurent","Scratch","8-10;10-12","Bilingual",15
+"Bernat Ferragut",2017-10-15,2017-10-15,"Bibliotheque Ville Saint-Laurent","Québec","Québec","H4L2H2","Bibliotheque Ville Saint-Laurent","Scratch","10-12","French",20
+"Bernat Ferragut",2017-10-10,2017-11-21,"École Saint-Antoine-Marie-Claret","Montréal","Québec","H2B1R3","École Saint-Antoine-Marie-Claret","Scratch","10-12","French",19
+"Bernat Ferragut",2017-10-05,2017-11-23,"École Saint-Arsène","Montréal","Québec","H2S2H5","Code MTL","Scratch","5-7;8-10;10-12","French",24
+"Bernat Ferragut",2017-10-05,2017-11-23,"École Marie-Favery","Montréal","Québec","H2R2S9","Code MTL","Scratch","5-7;8-10;10-12","French",18
+"Bernat Ferragut",2017-10-05,2017-11-23,"École Marie-Favery","Montréal","Québec","H2R2S9","Code MTL","Scratch","5-7;8-10;10-12","French",18
+"Bernat Ferragut",2017-10-05,2017-12-04,"École Louis-Colin","Montréal","Québec","H2C2V9","Code MTL","Scratch","5-7;8-10;10-12","French",24
+"Bernat Ferragut",2017-10-04,2017-11-15,"Ecole Bienville","Montréal","Québec","H1Z4E2","Code MTL","Scratch","5-7;8-10;10-12","French",19
+"Bernat Ferragut",2017-10-04,2017-11-22,"École Sainte-Lucie","Montréal","Québec","H1Z3G3","École Sainte-Lucie","Scratch","10-12","French",16
+"Bernat Ferragut",2017-10-03,2017-11-21,"École Saints-Martyrs-Canadiens","Montréal","Québec","H2B2L4","École Saints-Martyrs-Canadiens","Scratch","10-12","French",17
+"Bernat Ferragut",2017-10-02,2017-12-04,"Saint-Fabien","Montréal","Québec","H1M1M4","Code MTL","Scratch","5-7;8-10;10-12","French",24
+"Bernat Ferragut",2017-10-02,2017-11-27,"Saint-Donat","Montréal","Québec","H1N3B8","Code MTL","Scratch","5-7;8-10;10-12","French",20
+"Bernat Ferragut",2017-10-02,2017-11-27,"École Saint-Donat","Montréal","Québec","H1N3B8","École Saint-Donat","Scratch","10-12","French",19
+"Bernat Ferragut",2017-01-10,2017-08-22,"Bienville","Montréal","Québec","H1Z4E2","Ecole-Bienville","Scratch","8-10","French",19
+"Bernat Ferragut",2018-03-20,2018-04-24,"99 Rue Sainte Agathe, Sainte-Agathe-des-Monts, QC J8C 2J9, Canada","Sainte-Agathe-des-Monts, QC","Québec","J8C2J9","Scratch","Introduction to Scratch","8-10","French",20
+"Bernat Ferragut",2018-03-20,2018-04-17,"99 Rue Sainte Agathe, Sainte-Agathe-des-Monts, QC J8C 2J9, Canada","Sainte-Agathe-des-Monts, QC","Québec","J8C2J9","Scratch","Introduction to Scratch","5-7","French",15
+"Bernat Ferragut",2018-03-19,2018-04-23,"37 Rue Larocque E, Sainte-Agathe-des-Monts, QC J8C 1H8, Canada","Sainte-Agathe-des-Monts, Qc","Québec","J8C1H8","Scratch","Introduction to Scratch","10-12","French",25
+"Bernat Ferragut",2018-03-19,2018-04-23,"37 Rue Larocque E, Sainte-Agathe-des-Monts, QC J8C 1H8, Canada","Sainte-Agathe-des-Monts, QC","Québec","J8C1H8","Scratch","Introduction to Scratch","5-7","French",15
+"Bernat Ferragut",2018-02-09,2018-04-06,"École Saint-Antoine-Marie-Claret","Montréal","Québec","H2B1R3","Scratch","CodeMTL","10-12","French",20
+"Bernat Ferragut",2018-02-08,2018-04-05,"École Saint-Benoît","Montréal","Québec","H3L1W6","Scratch","codeMTL","10-12","French",16
+"Bernat Ferragut",2018-02-07,2018-04-05,"École Saint-Simon-Apôtre","Montréal","Québec","H2N1K1","Scratch","CodeMTL","8-10","French",15
