@@ -1,0 +1,22 @@
+{
+  "name": "vue-profile",
+  "version": "1.0.0",
+  "description": "> Creating a vue-profile to show the data processed during teachhing this year.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernatferragut/vue-profile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bernatferragut/vue-profile/issues"
+  },
+  "homepage": "https://github.com/bernatferragut/vue-profile#readme",
+  "dependencies": {
+    "vue2-google-maps": "^0.9.7"
+  }
+}
